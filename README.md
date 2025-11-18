@@ -1,0 +1,14 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jRa9bpsE)
+# Entrega final DSAW:
+
+## URL Frontend: https://wheels-7b9rzpw9y-gyrateplace129s-projects.vercel.app
+## URL Backend: https://wheels-peka.onrender.com
+## Nombre estudiante 1: Sebastian Quintero
+
+# MODIFIQUE ESTE README AGREGANDO LA INFORMACIÓN QUE CONSIDERE PERTINENTE
+
+# Reglas
+- Recuerde subir su código antes del 17 de noviembre de 2025, 11:59PM
+- No se adminten entregas tardías
+- Si la entrega final no está desplegada, no se califica
+- Si hay modificaciones luego de la fecha establecida, no se calificará la parte técnica
